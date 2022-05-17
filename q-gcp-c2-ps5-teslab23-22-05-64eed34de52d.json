@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "q-gcp-c2-ps5-teslab23-22-05",
+  "private_key_id": "64eed34de52de64d1636605a3ac8ba0147cc163d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+buBLbis3tIH/\n/HR+XZ9Bw30ihhE04QT0IoP4NQd2qvJzUUYSKiPQj3zq9bia/U1C+BVS991iv9AO\nVKGNwefAs6Mgo2Q6FOgtQLxZ74gP354ZVr5mYmR5KR3UX8ZbAf+OZm5s+cqkiBGO\nq9CEzBk69kbTKd1AOTT0MaV4rk57wJ/mQ25YhIwTHBv7jd/+Klpsz22lQuVcQr6b\n65bxsloJ/PhLdzAGlpDbPMEgtDTo3EtY0v1V5ZvpBwchkroqicr5Khuf7fWUheA7\nP+JPvEEQC3+H9mksqPIleNTsyPboWzp0ELLfIjzr1PGn/mIHlJM4MBTUMPY8Vhc8\nTokayiMzAgMBAAECggEADX0JAg7BnOZ6NsmI7tJuz1era2CXo2k00p4HPvNyneMp\n3SUqk2rMsp8XOAVDmCbM7CtqR0ArPC1d7UXtU38ijTGsIkmwdbS5ZUsqjCw9NPKf\n3ieYwOPDPhm9dSd7g0K2+T0kIS/oPJMuuy5MTLuwJc7/4UEb3Mqwh4NktxGRmY5B\n4YR5IQjmgEEp3RnVZOdPwPlQKuw10onuL/beR8FSpY5t5Q1ZZEuIMxW7tD/U9vfw\nr1Ma0w84zAhXON8WlOYrBWF0Kl//vTqdAXGuGO/BV8Mw8bO2AUuFMZP12fJaUh89\nss5XI0YNPTJbJfHHsSshCh4QUXqUcm6IdElak28swQKBgQDwLEFPeUYmHlGNTA0+\n29dfz3zUqmpu2chtqPuNdRxZUq/LLBKuR5Y3MPHUy6vzX6hLupDew2laD4RLMRMx\nm2TcXNDb/mOsldnAxyVGyGUT6uF177eOI0o/2ez/E3b1znngeRZe229VmDoALxSP\ncIl9OnVZTVKKvsR5tOuQ1VQRowKBgQDK+4FeNbcWzzLIIseiMkdAToL0g3upbPvD\n4nH0Kjc8OmK26Zv2PVniZlpue+Hqd52us1YvcEppKBcDyVNVmj4xzoH5KRYiw6TU\njvqJS62GEkYf01QovZ8xhIGb8q1tDlK/Ow709aAf81aKN60t3SWn9LwINWt+hCHy\nFOiaQSxhMQKBgE0p6tHd5OvaUdlT1e2cNFZUE4dAOXHkBsE0yZ1pQvJv3osoXdgg\np+KTlx8HUPeghDHQfzsTDYYh9h8yZThK9NzX9UK5OMz6WDvXv+I+ADul+0oo+pBw\nRiq9madaWZ4f+IhmXwma9upJPllQxwpO3d2eKpXGgf6RzA5OUmD2KUyBAoGBAMZf\nsBoTYwDutFF19Cam/o1xbXhru4JkWVUiTH30eBDreqgKfPrVELA7mauadLrB9h/T\ncqpgEsjcfkmcC06AtMHWcZ3BMrn8/G0j4uQlSsvZtiDKVtiOITOyrTxsmmMXeXUc\n0cxC9R/koDHqodxN4cxYWR+onYqCte4x0vVWNnoxAoGBALJV1JwiaCbsecHExbOX\npm0ibSRbcVnEFnvDjTpdq833BnWjNx+/g9z2GETr/Iqpx/k+5ikcFVil3UWIlpiJ\n2i1Te59ReFjGIH9L22GnbBwjbFaCWU71iLnhIPFQuftRyU6qjZsJM3WD5eJhW9mu\n9tRXJBO82/o75TCOaBRKAp6n\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-cred-leak@q-gcp-c2-ps5-teslab23-22-05.iam.gserviceaccount.com",
+  "client_id": "105534870903377954972",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-cred-leak%40q-gcp-c2-ps5-teslab23-22-05.iam.gserviceaccount.com"
+}
